@@ -1,0 +1,2 @@
+import BifurcationTheoryPdesManifoldsCanonicalLaneLean.GateLemmas
+import BifurcationTheoryPdesManifoldsCanonicalLaneLean.FinalTheorem
